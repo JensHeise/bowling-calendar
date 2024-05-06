@@ -9,9 +9,9 @@ for team in teams:
     for game in games.iterrows():
         e = Event()
         if game[1]["Team 1"] == team:
-            e.name = game[1]["Team 1"] + " vs. " + game[1]["Team 2"] + " | " + game[1]["Lanes"]
+            e.name = "🎳 " + game[1]["Team 1"] + " vs. " + game[1]["Team 2"] + " | " + game[1]["Lanes"]
         else:
-            e.name = game[1]["Team 2"] + " vs. " + game[1]["Team 1"] + " | " + game[1]["Lanes"]
+            e.name = "🎳 " + game[1]["Team 2"] + " vs. " + game[1]["Team 1"] + " | " + game[1]["Lanes"]
         e.begin = game[1]["Date"] + "T" + game[1]["Time"] + game[1]["Timezone"]
         e.duration = {"hours": 2}
         e.location = game[1]["Alley"]
