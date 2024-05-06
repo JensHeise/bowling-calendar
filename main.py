@@ -15,6 +15,9 @@ for team in teams:
     c.extra.append(ContentLine(name="X-WR-CALNAME", value=team))
     c.extra.append(ContentLine(name="TIMEZONE-ID", value="Europe/Berlin"))
     c.extra.append(ContentLine(name="X-WR-TIMEZONE", value="Europe/Berlin"))
+    c.extra.append(ContentLine(name="X-PUBLISHED-TTL", value="PT120M"))
+    c.extra.append(ContentLine(name="REFRESH-INTERVAL",
+                   value="PT120M", params={"VALUE": ["DURATION"]}))
     for game in games.iterrows():
         e = Event()
         e.created = datetime.now()
