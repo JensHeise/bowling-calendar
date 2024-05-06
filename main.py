@@ -1,11 +1,16 @@
 import pandas as pd
 from ics import Calendar, Event
+from ics.grammar.parse import ContentLine
 
 data = pd.read_csv("data.csv", sep=";")
 teams = pd.concat([data["Team 1"], data["Team 2"]]).unique()
 for team in teams:
     games = data[(data["Team 1"] == team) | (data["Team 2"] == team)]
     c = Calendar()
+    c.creator = "JensHeise/bowling-calendar"
+    c.extra.append(ContentLine(name= "NAME", value= "Hausliga " + team))
+    c.extra.append(ContentLine(name= "X-WR-CALNAME", value= "Hausliga " + team))
+    c.extra.append(ContentLine(name= "X-WR-TIMEZONE", value= "Europe/Berlin"))
     for game in games.iterrows():
         e = Event()
         if game[1]["Team 1"] == team:
@@ -13,7 +18,7 @@ for team in teams:
         else:
             e.name = "🎳 " + game[1]["Team 2"] + " vs. " + game[1]["Team 1"] + " | " + game[1]["Lanes"]
         e.begin = game[1]["Date"] + "T" + game[1]["Time"] + game[1]["Timezone"]
-        e.duration = {"hours": 2}
+        e.duration = {"hours": 2, "minutes": 30}
         e.location = game[1]["Alley"]
         e.geo = (game[1]["Latitude"], game[1]["Longitude"])
         c.events.add(e)
