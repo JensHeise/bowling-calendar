@@ -17,5 +17,5 @@ for team in teams:
         e.location = game[1]["Alley"]
         e.geo = (game[1]["Latitude"], game[1]["Longitude"])
         c.events.add(e)
-    with open("calendars/" + team + ".ics", "w") as my_file:
+    with open("calendars/" + team.replace(" ", "_") + ".ics", "w") as my_file:
         my_file.writelines(c.serialize_iter())
