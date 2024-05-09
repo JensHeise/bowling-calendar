@@ -6,6 +6,9 @@ from dateutil.tz import gettz
 
 data = pd.read_csv("data.csv", sep=";")
 teams = pd.concat([data["Team 1"], data["Team 2"]]).unique()
+with open("counter", "r") as file:
+    counter = file.read()
+print(counter)
 for team in teams:
     games = data[(data["Team 1"] == team) | (data["Team 2"] == team)]
     c = Calendar()
@@ -31,6 +34,10 @@ for team in teams:
             game[1]["Date"] + " " + game[1]["Time"], "%d.%m.%Y %H:%M").replace(tzinfo=gettz(game[1]["Timezone"]))
         e.duration = {"hours": 2, "minutes": 30}
         e.location = game[1]["Alley"]
+        e.uid = None
+        e.extra.append(ContentLine(name="SERIES", value=counter))
         c.events.append(e)
     with open("calendars/" + team.replace(" ", "_") + ".ics", "w") as my_file:
         my_file.writelines(c)
+with open("counter", "w") as file:
+    file.write(str(int(counter) + 1))
