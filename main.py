@@ -34,7 +34,8 @@ for team in teams:
             game[1]["Date"] + " " + game[1]["Time"], "%d.%m.%Y %H:%M").replace(tzinfo=gettz(game[1]["Timezone"]))
         e.duration = {"hours": 2, "minutes": 30}
         e.location = game[1]["Alley"]
-        e.uid = None
+        e.uid = team + "-" + \
+            e.begin.strftime("%Y%m%d%H%M%S") + "@bowling-calendar"
         e.extra.append(ContentLine(name="SERIES", value=counter))
         c.events.append(e)
     with open("calendars/" + team.replace(" ", "_") + ".ics", "w") as my_file:

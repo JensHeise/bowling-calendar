@@ -1,22 +1,85 @@
 ﻿Date;Time;Timezone;Alley;Lanes;Team 1;Team 2
-22.04.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Caipiranhas;Die Flintstones
-22.04.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;PINPanthers;Rasselbande
-22.04.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;The Ghostriders;The X-Team
-29.04.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;The X-Team
-29.04.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Caipiranhas;PINPanthers
-29.04.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;The Ghostriders;X-Men
-06.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;PINPanthers;The Ghostriders
-06.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Rasselbande;Caipiranhas
-06.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;Die Flintstones
-13.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The Ghostriders;Caipiranhas
-13.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The X-Team;PINPanthers
-13.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;Rasselbande
-27.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Caipiranhas;The X-Team
-27.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Rasselbande;Die Flintstones
-27.05.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;PINPanthers;X-Men
-03.06.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The X-Team;Rasselbande
-03.06.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The Ghostriders;Die Flintstones
-03.06.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;Caipiranhas
-10.06.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;PINPanthers
-10.06.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Rasselbande;The Ghostriders
-10.06.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;The X-Team;X-Men
+07.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;The Ghostriders;Die Flintstones
+07.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;El Caipiraños;Die Strikeaholics
+07.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Königin Ami und Ihre Talahuhns;Flutschfingers
+07.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;The X-Team
+14.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;El Caipiraños;Königin Ami und Ihre Talahuhns
+14.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;Flutschfingers
+14.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The X-Team;Die Strikeaholics
+14.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;The Ghostriders
+21.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Flutschfingers;Die Strikeaholics
+21.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Königin Ami und Ihre Talahuhns;The X-Team
+21.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The Ghostriders;El Caipiraños
+21.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Die Flintstones;X-Men
+28.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Königin Ami und Ihre Talahuhns;Die Flintstones
+28.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The X-Team;Flutschfingers
+28.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Strikeaholics;The Ghostriders
+28.10.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;El Caipiraños;X-Men
+04.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;El Caipiraños;Flutschfingers
+04.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The Ghostriders;Königin Ami und Ihre Talahuhns
+04.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Flintstones;The X-Team
+04.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;Die Strikeaholics
+11.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Die Strikeaholics;Die Flintstones
+11.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Flutschfingers;The Ghostriders
+11.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;El Caipiraños;The X-Team
+11.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Königin Ami und Ihre Talahuhns;X-Men
+18.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;The X-Team;The Ghostriders
+18.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;El Caipiraños
+18.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Strikeaholics;Königin Ami und Ihre Talahuhns
+18.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Flutschfingers;X-Men
+25.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;The Ghostriders;Die Flintstones
+25.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;El Caipiraños;Die Strikeaholics
+25.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Königin Ami und Ihre Talahuhns;Flutschfingers
+25.11.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;The X-Team
+02.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;El Caipiraños;Königin Ami und Ihre Talahuhns
+02.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;Flutschfingers
+02.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The X-Team;Die Strikeaholics
+02.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;The Ghostriders
+09.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Flutschfingers;Die Strikeaholics
+09.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Königin Ami und Ihre Talahuhns;The X-Team
+09.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The Ghostriders;El Caipiraños
+09.12.2024;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Die Flintstones;X-Men
+06.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Königin Ami und Ihre Talahuhns;Die Flintstones
+06.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The X-Team;Flutschfingers
+06.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Strikeaholics;The Ghostriders
+06.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;El Caipiraños;X-Men
+13.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;El Caipiraños;Flutschfingers
+13.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The Ghostriders;Königin Ami und Ihre Talahuhns
+13.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Flintstones;The X-Team
+13.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;Die Strikeaholics
+20.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Die Strikeaholics;Die Flintstones
+20.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Flutschfingers;The Ghostriders
+20.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;El Caipiraños;The X-Team
+20.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Königin Ami und Ihre Talahuhns;X-Men
+27.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;The X-Team;The Ghostriders
+27.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;El Caipiraños
+27.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Strikeaholics;Königin Ami und Ihre Talahuhns
+27.01.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Flutschfingers;X-Men
+03.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;The Ghostriders;Die Flintstones
+03.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;El Caipiraños;Die Strikeaholics
+03.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Königin Ami und Ihre Talahuhns;Flutschfingers
+03.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;The X-Team
+10.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;El Caipiraños;Königin Ami und Ihre Talahuhns
+10.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;Flutschfingers
+10.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The X-Team;Die Strikeaholics
+10.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;The Ghostriders
+17.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Flutschfingers;Die Strikeaholics
+17.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Königin Ami und Ihre Talahuhns;The X-Team
+17.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;The Ghostriders;El Caipiraños
+17.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Die Flintstones;X-Men
+24.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Königin Ami und Ihre Talahuhns;Die Flintstones
+24.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The X-Team;Flutschfingers
+24.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Strikeaholics;The Ghostriders
+24.02.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;El Caipiraños;X-Men
+03.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;El Caipiraños;Flutschfingers
+03.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;The Ghostriders;Königin Ami und Ihre Talahuhns
+03.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Flintstones;The X-Team
+03.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;X-Men;Die Strikeaholics
+10.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;Die Strikeaholics;Die Flintstones
+10.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Flutschfingers;The Ghostriders
+10.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;El Caipiraños;The X-Team
+10.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Königin Ami und Ihre Talahuhns;X-Men
+17.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 1&2;The X-Team;The Ghostriders
+17.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 5&6;Die Flintstones;El Caipiraños
+17.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 7&8;Die Strikeaholics;Königin Ami und Ihre Talahuhns
+17.03.2025;19:00;Europe/Berlin;Bowling around the Clock Lauenau;Bahnen 9&10;Flutschfingers;X-Men
