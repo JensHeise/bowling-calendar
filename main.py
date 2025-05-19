@@ -1,6 +1,6 @@
 import pandas as pd
 from ics import Calendar, Event
-from ics.contentline import ContentLine
+from ics.grammar.parse import ContentLine
 from datetime import datetime
 from dateutil.tz import gettz
 
@@ -25,10 +25,10 @@ for team in teams:
         e = Event()
         e.created = datetime.now()
         if game[1]["Team 1"] == team:
-            e.summary = "🎳 " + game[1]["Team 1"] + " vs. " + \
+            e.name = "🎳 " + game[1]["Team 1"] + " vs. " + \
                 game[1]["Team 2"] + " | " + game[1]["Lanes"]
         else:
-            e.summary = "🎳 " + game[1]["Team 2"] + " vs. " + \
+            e.name = "🎳 " + game[1]["Team 2"] + " vs. " + \
                 game[1]["Team 1"] + " | " + game[1]["Lanes"]
         e.begin = datetime.strptime(
             game[1]["Date"] + " " + game[1]["Time"], "%d.%m.%Y %H:%M").replace(tzinfo=gettz(game[1]["Timezone"]))
@@ -37,7 +37,7 @@ for team in teams:
         e.uid = team + "-" + \
             e.begin.strftime("%Y%m%d%H%M%S") + "@bowling-calendar"
         e.extra.append(ContentLine(name="SERIES", value=counter))
-        c.events.append(e)
+        c.events.add(e)
     with open("calendars/" + team.replace(" ", "_") + ".ics", "w") as my_file:
         my_file.writelines(c)
 with open("counter", "w") as file:
